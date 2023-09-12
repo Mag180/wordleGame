@@ -3,7 +3,7 @@
 ## Description
 This is a simple project for a wordle replica.
 
-##Screenshots
+## Screenshots
 ()[]
 
 ## Links (Optional)
